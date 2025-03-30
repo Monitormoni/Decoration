@@ -200,23 +200,14 @@ function Engagement() {
   );
 }
 
-function Home(){
 
-  const navigate = useNavigate();
-  const handleEventClick = (event) => {
-    
-  }
-
-}
-
-function Offers(){
-  return(
-    <div>
-      <h1>Offers are coming soon</h1>
-    </div>
-
-  );
-}
+// function Offers(){
+//   return(
+//     <div>
+//       <h1>Offers are coming soon</h1>
+//     </div>
+//   );
+// }
 
 function ContactUs() {
   return (
